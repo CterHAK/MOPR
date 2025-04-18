@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "414412546845",
+    "firebase_url": "https://videoshort-5e12a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "videoshort-5e12a",
+    "storage_bucket": "videoshort-5e12a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414412546845:android:703bad4fdbd908559b77f4",
+        "android_client_info": {
+          "package_name": "com.aaa.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2MvgMK9Y5e4VD_VsTf8n3A1lDsknGnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414412546845:android:e73c06c0866a66429b77f4",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2MvgMK9Y5e4VD_VsTf8n3A1lDsknGnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
